@@ -9,6 +9,9 @@
 公開、商用利用、改変等、自由に行っていただいて構いません。
 間違いの修正や、より良い内容への修正変更を歓迎します。
 
+## 免責
+本手順書のご利用によって生ずるいかなる損害についても責任を負いかねますので、ご了承ください。
+
 ## LICENSE
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
