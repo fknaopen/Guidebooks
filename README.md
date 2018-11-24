@@ -11,7 +11,7 @@
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://gitlab.com/fknaopen/doc_scm_gitlab">
+     href="https://qiita.com/nfukuoka">
     <span property="dct:title">Naohisa Fukuoka</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">SourceManagementManual_usingGitLab</span>.
