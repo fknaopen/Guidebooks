@@ -1,0 +1,3 @@
+# SourceManagementManual_usingGitLab
+
+組込み製品向けGitLab運用手順書をCC0で公開しています
